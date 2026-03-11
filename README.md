@@ -21,3 +21,5 @@ Sem edição, qualquer erro de cadastro exige deletar e recriar — o que não �
 Campos preenchidos no cadastro (imagem, endereço) não aparecem na listagem. Essa inconsistência entre o que é salvo e o que é exibido indica falha no mapeamento de dados entre camadas, e pode esconder outros campos com o mesmo problema.
 5. 🟡 Experiência de navegação e feedback ao usuário
 A ausência de um fluxo de navegação claro (sem Home, sem mensagens de sucesso/erro) compromete a usabilidade e pode mascarar falhas — o usuário não sabe se uma ação foi concluída com sucesso ou não.
+
+PLANILHA QA: https://docs.google.com/spreadsheets/d/1SxzCZpzTOjnYmt0-S5vkaUHtFb-NcusfBUXftkpBLXU/edit?gid=0#gid=0
